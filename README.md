@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Techno/Br0ny/Pride. You can call me by any of these names.
-- 👀 I’m interested in Java, HTML, C++, Python.
-- 🌱 I’m currently learning C++,Python
+- 👋 Hi, I’m @Techno/Br0ny, but you can call me Clyde.
+- 👀 I love programming and mathematics, I know C#, c++, python, java, js, css, html, ruby, kotlin.
+- 🌱 I’m currently learning GO.
 - 💞️ I’m looking to collaborate with no one, not yet.
 - 📫 You can't reach me if it's not super important
 <!---
