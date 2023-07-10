@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Techno/Br0ny, but you can call me Clyde.
+- 👋 Hi, I’m @Techno/Br0ny, but you can call me CuteCupCake or CCC
 - 👀 I love programming and mathematics, I know C#, c++, python, java, js, css, html, ruby, kotlin.
 - 🌱 I’m currently learning GO.
 - 💞️ I don't collaborate, unless I feel like it.
